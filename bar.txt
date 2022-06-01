@@ -1,1 +1,1 @@
-This is bar text file
+This is bar text filegit commit 
