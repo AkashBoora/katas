@@ -1,10 +1,5 @@
-red
+mared
 yellow
 coulr
-<<<<<<< HEAD
 dallas
 city
-=======
-did
-that
->>>>>>> parent of 8b6739f (MergeConflictMaster2)
